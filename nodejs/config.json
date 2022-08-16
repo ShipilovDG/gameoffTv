@@ -1,0 +1,16 @@
+{
+    "db_hostname": "localhost:3306",
+    "db_username": "root",
+    "db_password": "1",
+    "db_dbname": "church.uxp.ru",
+    "site_url": "http:\/\/localhost:8091",
+    "server_ip": "http:\/\/localhost:8091",
+    "server_port": 4545,
+    "amazon": false,
+    "amazon_bucket": "",
+    "nodejs_message_update_interval": 500,
+    "ajax_message_update_interval": 3000,
+    "ssl": false,
+    "ssl_privatekey_full_path": "",
+    "ssl_cert_full_path": ""
+}
