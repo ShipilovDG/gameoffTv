@@ -66,18 +66,18 @@ if (!empty($_POST['install'])) {
    if (!filter_var($_POST['site_url'], FILTER_VALIDATE_URL)) {
        $ServerErrors[] = "Invalid site url";
    }
-   // if (empty($_POST['admin_username']) || empty($_POST['admin_password'])) {
-   //     $ServerErrors[] = "Please provide right admin username/password";
-   // }
+   if (empty($_POST['admin_username']) || empty($_POST['admin_password'])) {
+       $ServerErrors[] = "Please provide right admin username/password";
+   }
    $_POST['purshase_code'] = trim($_POST['purshase_code']);
    $p = check_($_POST['purshase_code']);
-   // if (isset($p['status'])) {
-   //    if ($p['status'] == 'ERROR') {
-   //      $ServerErrors[] = $p['ERROR_NAME'];
-   //    }
-   // } else {
-   //   $ServerErrors[] = 'Failed to connect to server, please try again later, or contact us.';
-   // }
+   if (isset($p['status'])) {
+      if ($p['status'] == 'ERROR') {
+        $ServerErrors[] = $p['ERROR_NAME'];
+      }
+   } else {
+     $ServerErrors[] = 'Failed to connect to server, please try again later, or contact us.';
+   }
    if (empty($ServerErrors)) {
       $file_content =
 '<?php
