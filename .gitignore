@@ -4,3 +4,4 @@ node_modules/
 upload/
 /config.php
 assets/import
+config.php
