@@ -79,11 +79,11 @@ input { color: #eee !important; }
 li { color: #eee !important; background: #212121 !important; border-color: #444 !important; }
 li.sort-comments a:hover { background: #3e3e3e !important; color: #eee !important; }
 
-.mejs-qualities-selected { color: #04abf2 !important; }
+.mejs-qualities-selected { color: #BD40AF !important; }
 .carousel-inner {
 	border: 2px dashed #fff;
 }
-.mejs__qualities-selected { color: #04abf2 !important; }
+.mejs__qualities-selected { color: #BD40AF !important; }
 
 .setting-panel input[type='text'] { color: #eee !important; }
 .setting-panel input[type='password'] { color: #eee !important; }
@@ -191,7 +191,7 @@ hr { border-color: #424242 !important; }
 .alert p { color: #8a6d3b !important; }
 .alert h4 { color: #8a6d3b !important; }
 
-.main-color { color: #04abf2 !important; }
+.main-color { color: #BD40AF !important; }
 
 .next-video { border-bottom: 1px solid #3e3e3e !important; }
 
@@ -265,7 +265,7 @@ footer .footer-container { background: #212121 !important; box-shadow: none !imp
 
 .upload-head hr { border-color: #424242 !important; }
 
-.video-menu ul li span:hover { background: #04abf2 !important; color: #fff !important; }
+.video-menu ul li span:hover { background: #BD40AF !important; color: #fff !important; }
 
 .text-center.no-content-found { color: #eee !important; }
 
@@ -308,7 +308,7 @@ footer .footer-container { background: #212121 !important; box-shadow: none !imp
 
 .user-send-message textarea { box-shadow: none !important; }
 
-#new-message-form #send-button { color: #04abf2 !important; background-color: rgba(0, 0, 0, 0.3); }
+#new-message-form #send-button { color: #BD40AF !important; background-color: rgba(0, 0, 0, 0.3); }
 #new-message-form #send-button:hover { background-color: rgba(0, 0, 0, 0.5); }
 
 .pt_footer .container-fluid { background: #212121 !important; border-top: solid 1px #111111; }
@@ -398,7 +398,7 @@ ul.notfi-dropdown {
     color: #eee !important;
 }
 .yp_side_drawer ul.sections li.active a {
-    color: #04abf2 !important;
+    color: #BD40AF !important;
 }
 .yp_side_drawer ul.sections {
 	border-color: #444
@@ -637,7 +637,7 @@ body .tox .tox-menubar+.tox-toolbar, body .tox .tox-menubar+.tox-toolbar-overlor
 }
 
 .pt_blogcomm_combo textarea:focus, .main-comment .pt-comment-item-reply-form input:focus {
-    border-color: #04abf2 !important;
+    border-color: #BD40AF !important;
 }
 
 .verifiacation-request-form .upload-files {

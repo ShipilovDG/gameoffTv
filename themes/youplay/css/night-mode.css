@@ -78,7 +78,7 @@ a { color: inherit !important; color: #eee !important; }
 p, span, h1, h2, h3, h4, h5, h6, article, small, b, strong, td, th, label, button, input, li, .setting-panel input[type='text'], .setting-panel input[type='password'], .setting-panel.no-padding textarea, .setting-panel.no-padding select, .setting-panel textarea, .setting-panel select, .user-setting-panel input[type='text'], .user-setting-panel input[type='password'], .user-setting-panel textarea, .user-setting-panel select, .footer-copyright { color: #eee !important; }
 li { background: #212121 !important; border-color: #444 !important; }
 li.sort-comments a:hover { background: #3e3e3e !important; color: #eee !important; }
-.mejs-qualities-selected, .mejs__qualities-selected { color: #04abf2 !important; }
+.mejs-qualities-selected, .mejs__qualities-selected { color: #BD40AF !important; }
 .user-setting-panel { background: #303233 !important; color: #eee !important; border-color: #424242 !important; box-shadow: none !important; }
 ul { background: #212121 !important; border-color: #444 !important; }
 ul.dropdown-menu { background: #212121 !important; border-color: #444 !important; }
@@ -116,7 +116,7 @@ hr { border-color: #424242 !important; }
 .alert { border-radius: 0; }
 .alert p { color: #8a6d3b !important; }
 .alert h4 { color: #8a6d3b !important; }
-.main-color { color: #04abf2 !important; }
+.main-color { color: #BD40AF !important; }
 .next-video { border-bottom: 1px solid #3e3e3e !important; }
 .bg-bubbles { background-color: #131313 !important; }
 .bg-bubbles li { background-color: rgba(255, 255, 255, 0.15) !important; }
@@ -158,7 +158,7 @@ footer .footer-container { background: #212121 !important; box-shadow: none !imp
 .subscriptions-list .video-wrapper .video-desc { color: #8a8a8a !important; }
 .subscriptions-list .video-wrapper hr { border-color: #424242 !important; }
 .upload-head hr { border-color: #424242 !important; }
-.video-menu ul li span:hover { background: #04abf2 !important; color: #fff !important; }
+.video-menu ul li span:hover { background : #BD40AF !important; color : #fff !important; }
 .text-center.no-content-found { color: #eee !important; }
 .play-lists .dropdown-menu { border-radius: 0 !important; }
 .play-lists .dropdown-menu li span:hover { background: #3e3e3e !important; color: #eee !important; }
@@ -177,7 +177,7 @@ footer .footer-container { background: #212121 !important; box-shadow: none !imp
 .related-header h4 { border-bottom: 1px solid #3e3e3e !important; }
 .user-messages .messages .message .user-message { background-color: #131313; box-shadow: none !important; }
 .user-send-message textarea { box-shadow: none !important;background: #191C1D !important;}
-#new-message-form #send-button { color: #04abf2 !important; background-color: rgba(0, 0, 0, 0.3); }
+#new-message-form #send-button { color : #BD40AF !important; background-color : rgba(0, 0, 0, 0.3); }
 #new-message-form #send-button:hover { background-color: rgba(0, 0, 0, 0.5); }
 .pt_footer .container-fluid { background: #212121 !important; border-top: solid 1px #111111; }
 .pt_history .video-wrapper > div { box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2); }
@@ -354,7 +354,7 @@ nav.navbar-findcond .search-header .search-dropdown .search-result a:hover {
     border-color: #484848;
 }
 .login-page .login_signup_combo .btn {
-    background-color: #04abf2 !important;
+    background-color: #BD40AF !important;
 }
 .login-page .pp_mat_input input, .login-page .pp_mat_input select {
     background: #1c1c1c !important;
@@ -677,7 +677,7 @@ div.dataTables_wrapper div.dataTables_length select.form-control {
     background: transparent !important;
 }
 .pt_blogcomm_combo textarea:focus, .main-comment .pt-comment-item-reply-form input:focus {
-    border-color: #04abf2 !important;
+    border-color: #BD40AF !important;
 }
 
 body .pp_mat_input > .bootstrap-select .bs-actionsbox .actions-btn {

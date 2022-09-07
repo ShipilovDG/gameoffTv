@@ -616,8 +616,8 @@ function Wo_SubmitButton() {
 <style>
     .btn-main {
         color: #ffffff;
-        background-color: #04abf2;
-        border-color:#04abf2;
+        background-color: #BD40AF;
+        border-color: #BD40AF;
     }
     .btn-main:disabled {
         color: #333;
@@ -625,7 +625,7 @@ function Wo_SubmitButton() {
     }
     .btn-main:hover {
         color: #ffffff;
-        background-color: #04abf2;
-        border-color:#04abf2;
+        background-color: #BD40AF;
+        border-color: #BD40AF;
     }
 </style>

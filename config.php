@@ -8,19 +8,18 @@
 // | PlayTube - The Ultimate Video Sharing Platform
 // | Copyright (c) 2017 PlayTube. All rights reserved.
 // +------------------------------------------------------------------------+
-header("Location: ./install");
 // MySQL Hostname
-$sql_db_host = "";
+$sql_db_host = "localhost:3306";
 // MySQL Database User
-$sql_db_user = "";
+$sql_db_user = "root";
 // MySQL Database Password
-$sql_db_pass = "";
+$sql_db_pass = "1";
 // MySQL Database Name
-$sql_db_name = "";
+$sql_db_name = "church.uxp.ru";
 
 // Site URL
-$site_url = ""; // e.g (http://example.com)
+$site_url = "http://localhost:8089"; // e.g (http://example.com)
 
 // Purchase code
-$purchase_code = ""; // Your purchase code, don't give it to anyone. 
+$purchase_code = "1fcd84a2-ccfb-4a6c-8d8a-cdd162b52695"; // Your purchase code, don't give it to anyone.
 ?>
